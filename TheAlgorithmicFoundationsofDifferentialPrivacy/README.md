@@ -1,1 +1,8 @@
-# translation
+#### 差分隐私算法基础
+
+本书是对“_ __The Algorithmic Foundations of Differential Privacy__ _”的翻译，原书可在相关的网站中获取。本书由本人独立翻译完成，只用于学习和交流，因此翻译的所有内容，禁止用于任何商业活动。
+
+
+由于本人的英文水平以及相关差分隐私的相关知识有限，难免有翻译不恰当的地方，欢迎各位指正。
+
+个人主页：<http://liuao.tech>
